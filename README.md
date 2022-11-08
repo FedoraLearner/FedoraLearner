@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Linux Distributions, Forensic Auditing, Blockchain
      Technology & VMWare.
 
-- 💞️ I’m looking to collaborate on, Ubuntu touch, (RHEL), 2FA/Encryption & 
+- 💞️ I’m looking to collaborate on Ubuntu touch, (RHEL), 2FA/Encryption & 
      DrayTec Firewall/VPN/5G routers.
 
 - 📫 enigma_redhat@mailfence.com
