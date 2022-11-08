@@ -3,7 +3,7 @@
 - 👀 I’m interested in Understanding Linux commands and techniques,
      Configuring GRUB and Boot loaders & DNS,HTTPS,IPv4,IPv6.
 
-- 🌱 I’m currently learning Linux Distributions, Forensic Auditing, Blockchain,
+- 🌱 I’m currently learning Linux Distributions, Forensic Auditing, Blockchain
      Technology & VMWare.
 
 - 💞️ I’m looking to collaborate on, Ubuntu touch, (RHEL), 2FA/Encryption & 
